@@ -56,7 +56,7 @@ O foco principal do projeto foi:
 
 *Autenticação concluída com sucesso:*
 
-![Autenticação Concluída](./screens/autenticacao_concluida.png)
+![Autenticação Concluída](./screens/autenticacao_autorizada)
 
 ---
 
@@ -64,7 +64,7 @@ O foco principal do projeto foi:
 
 *Tentativa de login inválida:*
 
-![Autenticação Inválida](./screens/autenticacao_invalida.png)
+![Autenticação Inválida](./screens/autenticacao_negada)
 
 ---
 
@@ -72,7 +72,7 @@ O foco principal do projeto foi:
 
 *Captura de todas as tentativas de login:*
 
-![Logs](./screens/logs_terminal.png)
+![Logs](./screens/logs)
 
 ---
 
